@@ -1,18 +1,19 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/lifeProgrammer" target="_blank">Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Uzi82" alt=""></div>
-<h3 align="center">Frontend Developer on React JS</h3>
-<h4>My stack:</h4>
-<p>React, Redux, React query, Graph Ql, Apollo Graph QL, MobX, TailWind Css, Axios etc.</p>
-<div align="center"><picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uzi82&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Uzi82&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Uzi82&show_icons=true" />
-</picture></div>
-<div align="center" margin="10px"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=""></div>
+### Hi there 👋, my name is [**Sergey**](https://t.me/lifeProgrammer)
+#### I am Junior Frontend Developer
+ ![Profile views](https://komarev.com/ghpvc/?username=Uzi82)
+![I am Junior Frontend Developer](https://www.davidmvenegas.com/static/media/react-banner.1c0c53f9413881974c0c.jpg)
+
+I`m creating websites or user friendly part of them. Here, on my GitHub you can see my projects.
+
+Skills: REACT/REDUX/MOBX/RTK-QUERY/REACT-QUERY/APOLLO GRAPH QL/WEBPACK etc.
+
+- 🔭 I’m currently working on finfing new project 
+- 🌱 I’m currently learning React and it`s libraries 
+- 👯 I’m looking to collaborate on creating pet-projects 
+- 🤔 I’m looking for help with making ideas for projects 
+- 💬 Ask me about everywhing 
+- 📫 How to reach me: my telegram channel 
+- ⚡ Fun fact: ~~I`m gay~~ I love russian pank-rock 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Uzi82)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/lifeProgrammer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/uzi82)  
