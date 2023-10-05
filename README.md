@@ -7,7 +7,7 @@ I`m creating websites or user friendly part of them. Here, on my GitHub you can 
 
 Skills: REACT/REDUX/MOBX/RTK-QUERY/REACT-QUERY/APOLLO GRAPH QL/WEBPACK etc.
 
-- 🔭 I’m currently working on ![Allitta](https://github.com/Uzi82/Allitta)
+- 🔭 I’m currently working on [Allitta](https://github.com/Uzi82/Allitta)
 - 🌱 I’m currently learning React and it`s libraries 
 - 👯 I’m looking to collaborate on creating pet-projects 
 - 🤔 I’m looking for help with making ideas for projects 
