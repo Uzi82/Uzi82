@@ -13,4 +13,4 @@ Skills: React/Spring Boot/Spring Security/Spring JPA/Next.js/tailwind etc.
 - 📫 How to reach me: my telegram
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' fill='white' height='40'>](https://t.me/@Sergey_Holopov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' fill='white' height='40'>](https://vk.com/uzi82)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' fill='white' height='40'>](https://t.me/Sergey_Holopov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' fill='white' height='40'>](https://vk.com/uzi82)  
